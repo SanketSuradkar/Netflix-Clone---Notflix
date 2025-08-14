@@ -3,6 +3,7 @@ body {
 }
 
 header {
+/*     this is for the header tab  */
     background-image: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)),url(./img/header-img.jpg);
     background-size: cover;
     background-position: 50%;
@@ -327,3 +328,4 @@ footer .arrow-down {
         top: -45px;
     }
 }
+
